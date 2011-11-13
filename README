@@ -1,0 +1,7 @@
+SwingDemo
+
+Clicking one of the three buttons causes a circle of corresponding
+color to be painted on the DrawPanel.
+
+This is intended to be a brief demo of basic Swing (javax.swing) use,
+and nothing more. Hope it's helpful!
